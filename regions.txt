@@ -1,0 +1,12 @@
+[
+  { "name": "California", "value": "california" },
+  { "name": "DC Metro", "value": "dcmetro" },
+  { "name": "Florida", "value": "florida" },
+  { "name": "Midwest", "value": "midwest" },
+  { "name": "Mountain West", "value": "mtnwest" },
+  { "name": "New England", "value": "newengland" },
+  { "name": "Pacific West", "value": "pacwest" },
+  { "name": "South", "value": "south" },
+  { "name": "Southwest", "value": "southwest" },
+  { "name": "Texas", "value": "texas" }
+]
